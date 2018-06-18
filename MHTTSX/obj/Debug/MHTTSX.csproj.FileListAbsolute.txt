@@ -1,0 +1,18 @@
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\bin\Debug\MHTTSX.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\bin\Debug\MHTTSX.exe
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\bin\Debug\MHTTSX.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.exe
+c:\users\dell\documents\visual studio 2013\Projects\MHTTSX\MHTTSX\obj\Debug\MHTTSX.pdb
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\bin\Debug\MHTTSX.exe.config
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.exe
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.pdb
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\bin\Debug\MHTTSX.exe
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\bin\Debug\MHTTSX.pdb
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.Form1.resources
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.Properties.Resources.resources
+C:\Users\Dell\Desktop\MHTTSX\MHTTSX\obj\Debug\MHTTSX.csproj.GenerateResource.Cache
